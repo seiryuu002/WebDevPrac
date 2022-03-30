@@ -1,6 +1,4 @@
 .zone {
-    padding:30px 50px;
-    margin:40px 60px;
     cursor:pointer;
     display:inline-block;
     color:#FFF;
@@ -16,6 +14,23 @@
     -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
+
+/* NAV*/
+.main-nav{
+    display: lfex;
+    list-style: none;
+    font-size: 0,7em;
+    margin: 0;
+}
+
+li{
+    padding: 20;
+}
+
+
+
+
+
 
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
