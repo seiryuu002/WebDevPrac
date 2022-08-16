@@ -17,6 +17,6 @@ array.splice(0, 1);
 array.reverse();
 
 // using this array, 
-// var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
+var array2 = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 // access "Oranges".
 array2[1][1][0];
