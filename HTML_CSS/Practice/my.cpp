@@ -7,6 +7,5 @@ int main(){
     a = 5;
     cout << a << "," << ++a << "," << a++ << endl; // 566 X //775 O
     a = 5;
-    cout<<a++<<++a;
     return 0;
 }
